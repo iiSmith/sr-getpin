@@ -1,0 +1,16 @@
+-----------------------------------------------
+    qb-core > shared > items.lua -->
+    
+    pinget = { 
+    name = 'pinget', 
+    label = 'PIN Get',
+    weight = 500,
+    type = 'item',
+    image = 'pinget.png',
+    unique = true,
+    useable = true,
+    shouldClose = false,
+    description = '' 
+    },
+
+------------------------------------------------
