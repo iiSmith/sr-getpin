@@ -1,4 +1,4 @@
-# sr-getpin
+# sr_getphonepin
 
 ## Script Idea
 You can get a phone's PIN using only the phone number, but the phone must be in your inventory.
